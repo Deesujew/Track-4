@@ -1,0 +1,15 @@
+/Users/Deesujew/Desktop/tracks/track4/bin/Debug/net6.0/track4
+/Users/Deesujew/Desktop/tracks/track4/bin/Debug/net6.0/track4.deps.json
+/Users/Deesujew/Desktop/tracks/track4/bin/Debug/net6.0/track4.runtimeconfig.json
+/Users/Deesujew/Desktop/tracks/track4/bin/Debug/net6.0/track4.dll
+/Users/Deesujew/Desktop/tracks/track4/bin/Debug/net6.0/track4.pdb
+/Users/Deesujew/Desktop/tracks/track4/obj/Debug/net6.0/track4.csproj.AssemblyReference.cache
+/Users/Deesujew/Desktop/tracks/track4/obj/Debug/net6.0/track4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Deesujew/Desktop/tracks/track4/obj/Debug/net6.0/track4.AssemblyInfoInputs.cache
+/Users/Deesujew/Desktop/tracks/track4/obj/Debug/net6.0/track4.AssemblyInfo.cs
+/Users/Deesujew/Desktop/tracks/track4/obj/Debug/net6.0/track4.csproj.CoreCompileInputs.cache
+/Users/Deesujew/Desktop/tracks/track4/obj/Debug/net6.0/track4.dll
+/Users/Deesujew/Desktop/tracks/track4/obj/Debug/net6.0/refint/track4.dll
+/Users/Deesujew/Desktop/tracks/track4/obj/Debug/net6.0/track4.pdb
+/Users/Deesujew/Desktop/tracks/track4/obj/Debug/net6.0/track4.genruntimeconfig.cache
+/Users/Deesujew/Desktop/tracks/track4/obj/Debug/net6.0/ref/track4.dll
