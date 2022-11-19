@@ -6,9 +6,9 @@ int num= Convert.ToInt32(Console.ReadLine());
 
 if(num == 6 || num ==7)
 {
-    Console.WriteLine("выходной" );
+    Console.WriteLine("да" );
 }
-if (num>=1 && num<=5 )
+else 
 {
-   Console.WriteLine("будний");  
+   Console.WriteLine("нет");  
 }
