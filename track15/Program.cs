@@ -8,3 +8,7 @@ if(num == 6 || num ==7)
 {
     Console.WriteLine("выходной" );
 }
+if (num>=1 && num<=5 )
+{
+   Console.WriteLine("будний");  
+}
