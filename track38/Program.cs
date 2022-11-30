@@ -45,8 +45,8 @@ if (numbers[i] > maxim)
 }
 dif = maxim - minim;
 
-Console.WriteLine("Разница между максимальным и минимальным элементами массива:" + dif );
-
+//Console.WriteLine("Разница между максимальным и минимальным элементами массива:" + dif );
+Console.WriteLine("["+String.Join(" -> ", numbers)+ "] -> "+ dif);
 
 
 
