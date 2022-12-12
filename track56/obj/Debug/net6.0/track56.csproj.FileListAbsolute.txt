@@ -1,0 +1,15 @@
+/Users/Deesujew/Desktop/tracks/track56/obj/Debug/net6.0/track56.csproj.AssemblyReference.cache
+/Users/Deesujew/Desktop/tracks/track56/obj/Debug/net6.0/track56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Deesujew/Desktop/tracks/track56/obj/Debug/net6.0/track56.AssemblyInfoInputs.cache
+/Users/Deesujew/Desktop/tracks/track56/obj/Debug/net6.0/track56.AssemblyInfo.cs
+/Users/Deesujew/Desktop/tracks/track56/obj/Debug/net6.0/track56.csproj.CoreCompileInputs.cache
+/Users/Deesujew/Desktop/tracks/track56/bin/Debug/net6.0/track56
+/Users/Deesujew/Desktop/tracks/track56/bin/Debug/net6.0/track56.deps.json
+/Users/Deesujew/Desktop/tracks/track56/bin/Debug/net6.0/track56.runtimeconfig.json
+/Users/Deesujew/Desktop/tracks/track56/bin/Debug/net6.0/track56.dll
+/Users/Deesujew/Desktop/tracks/track56/bin/Debug/net6.0/track56.pdb
+/Users/Deesujew/Desktop/tracks/track56/obj/Debug/net6.0/track56.dll
+/Users/Deesujew/Desktop/tracks/track56/obj/Debug/net6.0/refint/track56.dll
+/Users/Deesujew/Desktop/tracks/track56/obj/Debug/net6.0/track56.pdb
+/Users/Deesujew/Desktop/tracks/track56/obj/Debug/net6.0/track56.genruntimeconfig.cache
+/Users/Deesujew/Desktop/tracks/track56/obj/Debug/net6.0/ref/track56.dll
