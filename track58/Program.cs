@@ -1,31 +1,32 @@
-﻿// Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
+﻿// Задайте две матрицы. Напишите программу, которая будет находить произведение двух матриц
 
 Console.WriteLine("Задайте количество строк двумерного массива:");
 int m = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Задайте количество столбцов двумерного массива:");
 int n = Convert.ToInt32(Console.ReadLine());
-int[,] array = new int[m, n];
+int[,] array1 = new int[m, n];
+int[,] array2 = new int[m, n];
 Random rnd = new Random();
 
-FillArray(array);
+FillArray(array1);
 Console.WriteLine();
-PrintArray(array);
+PrintArray(array1);
 
+FillArray(array2);
+Console.WriteLine();
+PrintArray(array2);
 
+int[,] mltpArray = new int [m,n];
 
-double avrg = 0.0;
-
-for (int j = 0; j < n; j++)
- {
-
-    for (int i = 0; i < m; i++)
-        {
-            avrg += array[i,j] * 1.0 / m;
-             
+for (int i = 0; i < m; i++)
+ { 
+    for (int j = 0; j < n; j++)
+        { 
+            mltpArray[i,j] = array1[i,j] * array2[i,j];
         }
-Console.WriteLine(avrg);
-avrg = 0.0;
  }
+
+PrintArray(mltpArray);
 
 
 
